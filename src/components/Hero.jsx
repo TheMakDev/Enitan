@@ -1,6 +1,6 @@
 import React from 'react';
 import { FaArrowRight, FaCheckCircle, FaUsers } from 'react-icons/fa';
-import heroImage from '../assets/bn.png'; 
+import heroImage from '../assets/mak1.png'; 
 
 const Hero = () => {
   return (
